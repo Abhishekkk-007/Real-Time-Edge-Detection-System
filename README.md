@@ -1,8 +1,5 @@
 # Flam Vision 
 
-**Name:** Abhishek Gautam
-
----
 
 ## 1. Core Features & Architecture (100% Code Complete)
 
