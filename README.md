@@ -1,4 +1,4 @@
-# Flam Vision Task: Software Engineering Intern Assessment
+# Flam Vision 
 
 **Name:** Abhishek Gautam
 
